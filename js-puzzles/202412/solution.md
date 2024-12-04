@@ -1,6 +1,6 @@
 Bananagram - S
 
-Sushi Go! - G
+Sushi Go! - G 
 
 Uno - M
 
@@ -16,7 +16,7 @@ Risk - S
 
 Monopoly - S
 
-Clue - Ns
+Clue - N
 
 Stratego - E
 
